@@ -48,6 +48,7 @@ read -p'input:--' enter;
 if [ "${enter}" = "1" ]
 then
 echo -e $ylo "Turn On Mobile Data Connection"
+sleep 3.0
 cd $HOME
 rm -rf t-net
 git clone https://github.com/shehan-9909/t-net
