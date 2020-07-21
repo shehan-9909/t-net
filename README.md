@@ -20,3 +20,6 @@ chose you android device v6 or v6+ remote control
 v8 sent your port,ip,password
 
 v6 No more
+
+control eny device 
+😉😉😉
